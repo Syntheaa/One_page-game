@@ -9575,7 +9575,12 @@ body.loaded .section-gems .gem-image {
     background: #F3F3F3;
     padding-bottom: 9%
 }
-
+.New_pink{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
 .section-contact .contact__profiles {
     padding: 0;
     margin: 0;
